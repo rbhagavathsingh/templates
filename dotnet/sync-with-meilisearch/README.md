@@ -1,4 +1,4 @@
-# ⚡ Node.js Sync with Meilisearch Function
+# ⚡dotnet Sync with Meilisearch Function
 
 Syncs documents in an Appwrite database collection to a Meilisearch index.
 
